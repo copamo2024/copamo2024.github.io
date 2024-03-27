@@ -5,7 +5,7 @@ permalink: /
 order: 1
 ---
 <div>
- <img src="/assets/copamo-header.png" alt="CoPaMo" class="center"><br/>
+ <img src="/assets/copamo-1250.png" alt="CoPaMo" class="center"><br/>
 </div>
 
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
