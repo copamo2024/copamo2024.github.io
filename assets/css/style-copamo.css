@@ -134,7 +134,7 @@ table tr:nth-child(odd) {
     text-align: center;
     font-size: 130%;
     font-weight: 500;
-    color: #92D050;
+    color: #33cccc;
     width: 25%;
     padding: 0px;
 }
@@ -235,7 +235,7 @@ table tr:nth-child(odd) {
     .navigation > li a:hover, 
     .navigation li > ul:hover + a, 
     .navigation li.current > a {
-        color: #92D050;
+        color: #33cccc;
     }
     .navigation li.current > a {
         font-weight: 550
