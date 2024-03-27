@@ -3,13 +3,13 @@
   affiliation: McMaster University, Canada
   website: http://istvandavid.com/
   order: 1
-- name: 
-  image: 
-  affiliation: 
-  website: 
+- name: Anne Gutschmidt
+  image: anne.jpg
+  affiliation: University of Rostock, Germany
+  website: https://www.wirtschaftsinformatik.uni-rostock.de/en/chair/team/academic-staff/anne-gutschmidt/
   order: 2
-- name: 
-  image: 
-  affiliation: 
-  website: 
+- name: Luciano Marchezan
+  image: luciano.png
+  affiliation: Johannes Kepler University, Austria
+  website: https://lucianomarchezan.github.io/
   order: 3
