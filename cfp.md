@@ -20,7 +20,7 @@ This workshop aims to unearth the visceral synergies between collaborative and p
 
 The topics of interest include, but are not limited to:
 
-- Technical facets of collaborative modeling</b></li>
+- Technical facets of collaborative modeling
   - Real-time and conflict-free collaboration, consistency in collaborative MDE, conflict management;
   - Version control systems and techniques for asynchronous collaboration;
   - Multi-paradigm, multi-view, and multi-level aspects of collaboration.
