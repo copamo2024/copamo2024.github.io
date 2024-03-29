@@ -22,4 +22,4 @@ This is a full-day workshop. The morning sessions will feature a keynote and tec
 
 ## Submit your paper!
 
-Check our the [Call for Papers](/cfp).
+Check out the [Call for Papers](/cfp).
