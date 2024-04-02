@@ -1,3 +1,24 @@
-- name: 
-  affiliation: 
-  website: 
+- name: BORK, Dominik
+  affiliation: TU Wien, Austria
+  website: https://informatics.tuwien.ac.at/people/dominik-bork
+- name: EXELMANS, Joeri
+  affiliation: University of Antwerp, Belgium
+  website: https://www.uantwerpen.be/en/staff/joeri-exelmans/
+- name: GIABBANELLI, Philippe
+  affiliation: Miami University, USA
+  website: https://giabbanelli.com/author/philippe-j.-giabbanelli/
+- name: MUSTAFIZ, Sadaf
+  affiliation: Toronto Metropolitan University, Canada
+  website: https://cs.torontomu.ca/~sadaf/
+- name: SHARBAF, Mohammadreza
+  affiliation: University of Isfahan, Iran
+  website: https://msharbaf.ir/
+- name: SNOECK, Monique
+  affiliation: KU Leuven, Belgium
+  website: https://www.kuleuven.be/wieiswie/en/person/00012755
+- name: SUNYÉ, Gerson
+  affiliation: University of Nantes, France
+  website: https://sunye-g.univ-nantes.io/
+- name: VAN DER HOEK, André
+  affiliation: University of California Irvine, USA
+  website: https://ics.uci.edu/~andre/index.html
