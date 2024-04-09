@@ -42,6 +42,7 @@ We solicit the following types of papers.
   - *Tool* papers demonstration of collaborative tools and frameworks;
   - *Tool concept* papers aiming to validate concepts and requirements of tools currently in development.
 
+Note: **page limits include references**!
 
 All submitted papers must adhere to the [ACM Conference](https://www.acm.org/publications/proceedings-template) format.
 
