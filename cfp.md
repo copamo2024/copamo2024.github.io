@@ -8,7 +8,7 @@ order: 5
 # Call for Papers
 
 
-Collaboration has become a particularly important topic in Model-Driven Engineering (MDE) due to the increasing complexity of systems, which requires a coordinated interplay between diverse stakeholders.
+Collaboration has become a particularly important topic in model-driven and model-based engineering due to the increasing complexity of systems, which requires a coordinated interplay between diverse stakeholders.
 However, collaborative modeling cannot be restricted to purely technical concerns and requires support for efficient communication and reducing the threshold to stakeholder participation.
 
 Complementary to the technical focus of collaborative modeling, participatory modeling focuses on organizing stakeholders into a purposeful process during which models can be elicited. The synergies between collaborative and participatory modeling are clear and it is high time to investigate them in detail.
@@ -21,7 +21,7 @@ This workshop aims to unearth the visceral synergies between collaborative and p
 The topics of interest include, but are not limited to:
 
 - Technical facets of collaborative modeling
-  - Real-time and conflict-free collaboration, consistency in collaborative MDE, conflict management;
+  - Real-time and conflict-free collaboration, consistency in collaborative MDE/MBE, conflict management;
   - Version control systems and techniques for asynchronous collaboration;
   - Multi-paradigm, multi-view, and multi-level aspects of collaboration.
 - Organizational and human facets of participatory modeling
