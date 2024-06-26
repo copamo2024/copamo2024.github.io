@@ -4,6 +4,18 @@ title: Home
 permalink: /
 order: 1
 ---
+
+<div class="important">
+    <div class="announcement-type">
+        IMPORTANT NEWS
+    </div>
+    <div class="announcement-content">
+        [26.06.2024.] The submission deadline has been extended by 10 days to **July 15**. Details <a href="/dates" style="color:white;text-decoration:underline;">here</a>.
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
 <div>
     <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
 </div>
