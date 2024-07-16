@@ -5,6 +5,18 @@ permalink: /
 order: 1
 ---
 
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS
+    </div>
+    <div class="announcement-content">
+        [16.07.2024.] We received a record high 14 submissions this year. Thank you for supporting CoPaMo through your works. The PC will now review your submissions and we'll notify you by August 7. The submission site remains open for a few more days.
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
+<!--
 <div class="important">
     <div class="announcement-type">
         IMPORTANT NEWS
@@ -15,6 +27,7 @@ order: 1
     <div class="announcement-date">
     </div>
 </div>
+-->
 
 <div>
     <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
