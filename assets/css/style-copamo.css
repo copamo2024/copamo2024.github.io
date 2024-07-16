@@ -1,5 +1,4 @@
 div .info{
-    width:100%;
     display: table;
     background:lightyellow;
     color:black;
@@ -11,7 +10,6 @@ div .info{
 }
 
 div .important{
-    width:100%;
     display: table;
     background:crimson;
     color:white;
