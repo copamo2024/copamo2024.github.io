@@ -10,7 +10,7 @@ order: 1
         LATEST NEWS
     </div>
     <div class="announcement-content">
-        [16.07.2024.] We received a record high 14 submissions this year. Thank you for supporting CoPaMo through your works. The PC will now review your submissions and we'll notify you by August 7. The submission site remains open for a few more days.
+        [16.07.2024.] The submission deadline has passed. We will now review your submissions and notify you by August 7. The submission site remains open for a few more days.
     </div>
     <div class="announcement-date">
     </div>
