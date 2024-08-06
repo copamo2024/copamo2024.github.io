@@ -10,7 +10,7 @@ order: 1
         LATEST NEWS
     </div>
     <div class="announcement-content">
-        [06.08.2024.] <p align="right">Workshop dates are now final; we'll organize CoPaMo on Sunday, 22 September, 2024.</p>
+        [06.08.2024.] Workshop dates are now final; we'll organize CoPaMo on Sunday, 22 September, 2024.
     </div>
     <div class="announcement-date">
     </div>
