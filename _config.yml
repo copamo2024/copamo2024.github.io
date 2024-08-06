@@ -45,6 +45,8 @@ site-css:
 navigation:
 - title: Home
   url: /
+- title: Accepted papers
+  url: /program
 - title: Call for Papers
   url: /cfp
 - title: Important dates
