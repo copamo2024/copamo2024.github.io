@@ -10,13 +10,25 @@ order: 1
         LATEST NEWS
     </div>
     <div class="announcement-content">
-        [16.07.2024.] The submission deadline has passed. We will now review your submissions and notify you by August 7. The submission site remains open for a few more days.
+        [06.08.2024.] Workshop dates are now final; we'll organize CoPaMo on Sunday, 22 September, 2024.
     </div>
     <div class="announcement-date">
     </div>
 </div>
 
 <!--
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS
+    </div>
+    <div class="announcement-content">
+        [16.07.2024.] The submission deadline has passed. We will now review your submissions and notify you by August 7. The submission site remains open for a few more days.
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
+
 <div class="important">
     <div class="announcement-type">
         IMPORTANT NEWS
