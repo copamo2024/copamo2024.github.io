@@ -5,6 +5,14 @@ permalink: /program
 order: 2
 ---
 
+{% assign papers = site.data.papers %}
+
 <h1>Program</h1>
 
-TBA
+<ul>
+{% for paper in papers %}
+    {% assign title = paper.title %}
+    {% assign authors = paper.authors %}
+    <li>{{ authors }} - <i>{{ title }}</i></li>
+{% endfor %}
+</ul>
