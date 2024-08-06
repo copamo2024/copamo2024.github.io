@@ -44,7 +44,3 @@ Collaborative modeling is an important enabler to engineering complex systems. W
 
 ## Workshop format
 This is a full-day workshop. The morning sessions will feature a keynote and technical presentations. The afternoon will continue with a session of technical presentations and conclude with a plenary discussion about collaborative and participatory modeling principles.
-
-## Submit your paper!
-
-Check out the [Call for Papers](/cfp).
