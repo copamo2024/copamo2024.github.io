@@ -7,11 +7,8 @@ order: 2
 
 {% assign papers = site.data.papers | sort:"title" %}
 
-<h1>Program</h1>
+<h1>Accepted papers</h1>
 
-TBA
-
-<!--
 <ul>
 {% for paper in papers %}
     {% assign title = paper.title %}
@@ -19,4 +16,3 @@ TBA
     <li><i>{{ title }}</i> by {{ authors }}</li>
 {% endfor %}
 </ul>
--->
