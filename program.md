@@ -5,14 +5,24 @@ permalink: /program
 order: 2
 ---
 
-{% assign papers = site.data.papers | sort:"title" %}
+{% assign sessions = site.data.sessions %}
+{% assign program = site.data.program %}
+{% assign papers = site.data.papers %}
 
-<h1>Accepted papers</h1>
+<h1>Tentative program</h1>
 
-<ul>
-{% for paper in papers %}
-    {% assign title = paper.title %}
-    {% assign authors = paper.authors %}
-    <li><i>{{ title }}</i> by {{ authors }}</li>
+<div>
+{% for session in sessions %}
+	{% assign sessionprogram = program | where_exp: "program", "program.session == session.session" | sort:"order" %}
+	<h3>{{session.session}} Session</h3>
+	<ul>
+		{% for talk in sessionprogram %}
+			{% if talk.paperid%}
+				{% include talk.md %}
+			{% else %}
+				{% include other.md %}
+			{% endif %}
+		{% endfor %}
+	</ul>
 {% endfor %}
-</ul>
+</div>

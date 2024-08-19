@@ -1,44 +1,60 @@
-- title: "A Tool for Collaborative Consistency Checking During Modeling"
-  authors: "Luciano Marchezan, Marcel Homolka, Andrei Blokhin, Wesley K. G. Assunção, Edvin Herac and Alexander Egyed"
-  session: 2
-  order: 1
-- title: "Modular Consistency Checking Between Heterogeneous Models Without Direct Data Exchange Between Collaborators"
-  authors: "Sebastian Bergemann and Nina Benkendorf"
-  session: 2
-  order: 2
-- title: "New UX for Participatory Modeling"
-  authors: "Steven Kelly"
-  session: 2
-  order: 3
-- title: "ARC³N: A Collaborative Uncertainty Collection to Address the Awareness Problem of Model-Based Confidentiality Analysis"
-  authors: "Sebastian Hahner, Nils Niehues, Nicolas Boltz, Mario Fuksa and Robert Heinrich"
-  session: AM2
-  order: 4
-- title: "Participatory and Collaborative Modeling of Sustainable Systems: A Systematic Survey"
-  authors: "Rajitha Manellanga and Istvan David"
-  session: 3
-  order: 1
-- title: "Engaging End-User-Modelers: An Action Research Study"
-  authors: "Harald Störrle"
-  session: 3
-  order: 2
-- title: "Towards Active Participation of Domain Experts in Modeling Language Evolution"
-  authors: "Malvina Latifaj"
-  session: 3
-  order: 3
-- title: "Towards Model-Based Adoption for Requirements Elicitation in Railway - the Role of Collaborative and Participatory Modelling"
-  authors: "Henrik Gustavsson and Johan Cederbladh"
-  session: 3
-  order: 4
-- title: "Bridging the Gap: Participatory Modeling for Stakeholder-Driven NoSQL Database Design"
-  authors: "Chaimae Asaad, Karim Baïna and Mounir Ghogho"
-  session: 4
-  order: 1
-- title: "Towards a collaborative approach for Digital Twin simulation models comprehension"
-  authors: "Arianna Fedeli and David A. Manrique Negrin"
-  session: 4
-  order: 2
-- title: "Towards public understanding of software through modeling"
-  authors: "Robbert Jongeling"
-  session: 4
-  order: 3
+- session: AM1
+  start: '09:00'
+  end: 	'10:15'
+  title: "Keynote"
+  presenter: "Dr. Philippe Giabbanelli"
+- session: AM1
+  start: '10:15'
+  end: 	'10:30'
+  title: "CoPaMo Opening"
+
+- session: AM2
+  start: '11:00'
+  end: 	'11:22'
+  paperid: 7
+- session: AM2
+  start: '11:22'
+  end: 	'11:44'
+  paperid: 1
+- session: AM2
+  start: '11:44'
+  end: 	'12:06'
+  paperid: 11
+- session: AM2
+  start: '12:06'
+  end: 	'12:28'
+  paperid: 5
+
+- session: PM1
+  start: '14:00'
+  end: 	'14:22'
+  paperid: 6
+- session: PM1
+  start: '14:22'
+  end: 	'14:44'
+  paperid: 3
+- session: PM1
+  start: '14:44'
+  end: 	'15:06'
+  paperid: 12
+- session: PM1
+  start: '15:06'
+  end: 	'15:28'
+  paperid: 10
+  
+- session: PM2
+  start: '16:00'
+  end: 	'16:22'
+  paperid: 13
+- session: PM2
+  start: '16:22'
+  end: 	'16:44'
+  paperid: 8
+- session: PM2
+  start: '16:44'
+  end: 	'16:06'
+  paperid: 9
+- session: PM2
+  start: '16:06'
+  end: 	'16:20'
+  title: "Closing and concluding remarks"
