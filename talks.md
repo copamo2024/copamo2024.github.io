@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Program
-permalink: /program
-order: 2
+title: Talks
+permalink: /talks
+order: 3
 ---
 
 {% assign sessions = site.data.sessions %}
