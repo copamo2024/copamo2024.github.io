@@ -10,7 +10,7 @@ order: 1
         KEYNOTE ANNOUNCEMENT
     </div>
     <div class="announcement-content">
-        [22.08.2024.] It is our pleasure to announce that Dr. Philippe Giabbanelli will deliver a keynote at the workshop. More details [here](/keynote).
+        [22.08.2024.] It is our pleasure to announce that Dr. Philippe Giabbanelli will deliver a keynote at the workshop. More details <a href="/keynote">here</a>.
     </div>
     <div class="announcement-date">
     </div>
