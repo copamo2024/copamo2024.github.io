@@ -48,9 +48,9 @@ navigation:
 - title: Program
   subpages:
     - title: Keynote
-    - url: /keynote
+      url: /keynote
     - title: Talks
-    - url: /program
+      url: /program
 - title: Call for Papers
   url: /cfp
 - title: Important dates
