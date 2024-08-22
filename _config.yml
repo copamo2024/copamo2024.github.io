@@ -46,7 +46,11 @@ navigation:
 - title: Home
   url: /
 - title: Program
-  url: /program
+  subpages:
+    - title: Keynote
+    - url: /keynote
+    - title: Talks
+    - url: /program
 - title: Call for Papers
   url: /cfp
 - title: Important dates
