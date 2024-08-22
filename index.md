@@ -7,6 +7,18 @@ order: 1
 
 <div class="info">
     <div class="announcement-type">
+        KEYNOTE ANNOUNCEMENT
+    </div>
+    <div class="announcement-content">
+        [22.08.2024.] It is our pleasure to announce that Dr. Philippe Giabbanelli will deliver a keynote at the workshop. More details [here](/keynote).
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
+<!--
+<div class="info">
+    <div class="announcement-type">
         LATEST NEWS
     </div>
     <div class="announcement-content">
@@ -16,7 +28,7 @@ order: 1
     </div>
 </div>
 
-<!--
+
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS
