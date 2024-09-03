@@ -4,7 +4,7 @@
 {% assign title = paper.title %}
 {% assign authors = paper.authors %}
 {% if talk.url %}
-  <li>{{start}}-{{end}}&nbsp;&nbsp;<i><h href="{{talk.url}}">{{ title }}</h>a</i> by {{ authors }}</li>
+  <li>{{start}}-{{end}}&nbsp;&nbsp;<i><a href="{{talk.url}}">{{ title }}</a>a</i> by {{ authors }}</li>
 {% else %}
   <li>{{start}}-{{end}}&nbsp;&nbsp;<i>{{ title }}</i> by {{ authors }}</li>
 {% endif %}
