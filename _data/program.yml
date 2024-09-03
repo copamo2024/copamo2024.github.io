@@ -2,6 +2,7 @@
   start: '09:00'
   end: 	'10:15'
   title: "Keynote"
+  subtitle: "Automating, Evaluating, and Broadening Participatory Modeling and Simulation"
   presenter: "Dr. Philippe Giabbanelli"
   url: /keynote
 - session: AM1
