@@ -3,7 +3,7 @@
   end: 	'10:15'
   title: "Keynote"
   presenter: "Dr. Philippe Giabbanelli"
-  url: '/keynote'
+  url: /keynote
 - session: AM1
   start: '10:15'
   end: 	'10:30'
