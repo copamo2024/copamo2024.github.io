@@ -14,7 +14,7 @@ order: 3
 <div>
 {% for session in sessions %}
 	{% assign sessionprogram = program | where_exp: "program", "program.session == session.session" | sort:"order" %}
-	<h3>{{session.session}} Session</h3>
+	<h3>{session.session} Session: {session.title}</h3>
 	<ul>
 		{% for talk in sessionprogram %}
 			{% if talk.paperid%}
