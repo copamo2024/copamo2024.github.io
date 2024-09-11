@@ -9,12 +9,11 @@ order: 3
 {% assign program = site.data.program %}
 {% assign papers = site.data.papers %}
 
-<h1>Tentative program</h1>
-
 <div>
 {% for session in sessions %}
 	{% assign sessionprogram = program | where_exp: "program", "program.session == session.session" | sort:"order" %}
 	<h3>{{session.session}} Session: {{session.title}}</h3>
+	<p>Chaired by {{session.chair}}.</p>
 	<ul>
 		{% for talk in sessionprogram %}
 			{% if talk.paperid%}
