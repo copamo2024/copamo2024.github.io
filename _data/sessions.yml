@@ -1,12 +1,16 @@
 - session: AM1
   order: 1
   title: 'Keynote and opening'
+  chair: Istvan David
 - session: AM2
   order: 2
   title: 'Collaboration, consistency, tools, and platforms'
+  chair: Anne Gutschmidt
 - session: PM1
   order: 3
   title: 'Bridging the gap between participatory and collaborative modeling'
+  chair: Luciano Marchezan
 - session: PM2
   order: 4
   title: 'Stakeholder-centric modeling for enhancing database design, digital twins, and software comprehension'
+  chair: TBD
