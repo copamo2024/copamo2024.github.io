@@ -45,12 +45,10 @@ site-css:
 navigation:
 - title: Home
   url: /
-- title: Program
-  subpages:
-    - title: Keynote
-      url: /keynote
-    - title: Talks
-      url: /talks
+- title: Keynote
+  url: /keynote
+- title: Talks
+  url: /talks
 - title: Call for Papers
   url: /cfp
 - title: Important dates
