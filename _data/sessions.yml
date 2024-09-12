@@ -2,19 +2,19 @@
   order: 1
   title: 'Keynote and opening'
   chair: Istvan David
-  url: http://istvandavid.com/
+  chairurl: http://istvandavid.com/
 - session: AM2
   order: 2
   title: 'Collaboration, consistency, tools, and platforms'
   chair: Anne Gutschmidt
-  url: https://www.wirtschaftsinformatik.uni-rostock.de/en/chair/team/academic-staff/anne-gutschmidt/
+  chairurl: https://www.wirtschaftsinformatik.uni-rostock.de/en/chair/team/academic-staff/anne-gutschmidt/
 - session: PM1
   order: 3
   title: 'Bridging the gap between participatory and collaborative modeling'
   chair: Luciano Marchezan
-  url: https://lucianomarchezan.github.io/
+  chairurl: https://lucianomarchezan.github.io/
 - session: PM2
   order: 4
   title: 'Stakeholder-centric modeling for enhancing database design, digital twins, and software comprehension'
   chair: Malvina Latifaj
-  url: https://www.es.mdu.se/staff/4313-Malvina_Latifaj
+  chairurl: https://www.es.mdu.se/staff/4313-Malvina_Latifaj
