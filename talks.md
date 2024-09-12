@@ -13,7 +13,7 @@ order: 3
 {% for session in sessions %}
 	{% assign sessionprogram = program | where_exp: "program", "program.session == session.session" | sort:"order" %}
 	<h3>{{session.session}} Session: {{session.title}}</h3>
-	<p>Chaired by <a href="{{session.chairurl}}">{{session.chair}}</a>a.</p>
+	<p>Chaired by <a href="{{session.chairurl}}">{{session.chair}}</a>.</p>
 	<ul>
 		{% for talk in sessionprogram %}
 			{% if talk.paperid%}
