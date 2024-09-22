@@ -7,10 +7,11 @@ order: 1
 
 <div class="info">
     <div class="announcement-type">
-        KEYNOTE ANNOUNCEMENT
+        KEYNOTE ROOM
     </div>
     <div class="announcement-content">
-        [22.08.2024.] It is our pleasure to announce that <a href="https://giabbanelli.com/author/philippe-j.-giabbanelli/">Dr. Philippe Giabbanelli</a> will deliver a keynote at the workshop. More details <a href="/keynote">here</a>.
+        [22.09.2024.] <a href="https://giabbanelli.com/author/philippe-j.-giabbanelli/">Dr. Philippe Giabbanelli</a> will deliver a keynote for the workshop at room <a href="https://conf.researchr.org/room/models-2024/models-2024-venue-hs-18">HS 18</a>
+        The remainder of the workshop will happen in Room <a href="https://conf.researchr.org/room/models-2024/models-2024-venue-ws---space-invaders">Space Invaders (S2 046)</a>.
     </div>
     <div class="announcement-date">
     </div>
