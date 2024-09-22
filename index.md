@@ -10,7 +10,8 @@ order: 1
         KEYNOTE ROOM
     </div>
     <div class="announcement-content">
-        [22.09.2024.] <a href="https://giabbanelli.com/author/philippe-j.-giabbanelli/">Dr. Philippe Giabbanelli</a> will deliver a keynote for the workshop at room <a href="https://conf.researchr.org/room/models-2024/models-2024-venue-hs-18">HS 18</a>
+        [22.09.2024.] <a href="https://giabbanelli.com/author/philippe-j.-giabbanelli/">Dr. Philippe Giabbanelli</a> will deliver a keynote for the workshop at room <a href="https://conf.researchr.org/room/models-2024/models-2024-venue-hs-18">HS 18</a>. 
+        <br>
         The remainder of the workshop will happen in Room <a href="https://conf.researchr.org/room/models-2024/models-2024-venue-ws---space-invaders">Space Invaders (S2 046)</a>.
     </div>
     <div class="announcement-date">
