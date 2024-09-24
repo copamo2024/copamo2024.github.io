@@ -4,6 +4,7 @@
   url: /assets/presentations/Bergemann.pptx
 - title: "Engaging End-User-Modelers: An Action Research Study"
   authors: "Harald Störrle"
+  url: /assets/presentations/Storrle.pdf
   paperid: 3
 - title: "ARC³N: A Collaborative Uncertainty Catalog to Address the Awareness Problem of Model-Based Confidentiality Analysis"
   authors: "Sebastian Hahner, Nils Niehues, Nicolas Boltz, Mario Fuksa and Robert Heinrich"
@@ -18,6 +19,7 @@
 - title: "Towards a collaborative approach for Digital Twin simulation models comprehension"
   authors: "Arianna Fedeli and David A. Manrique Negrin"
   paperid: 8
+  url: /assets/presentations/Fedeli.pdf
 - title: "Towards public understanding of software through modeling"
   authors: "Robbert Jongeling"
   paperid: 9
