@@ -7,12 +7,11 @@ order: 1
 
 <div class="info">
     <div class="announcement-type">
-        KEYNOTE ROOM
+        PRESENTATIONS
     </div>
     <div class="announcement-content">
-        [22.09.2024.] <a href="https://giabbanelli.com/author/philippe-j.-giabbanelli/">Dr. Philippe Giabbanelli</a> will deliver a keynote for the workshop at room <a href="https://conf.researchr.org/room/models-2024/models-2024-venue-hs-18">HS 18</a>. 
-        <br>
-        The remainder of the workshop will happen in Room <a href="https://conf.researchr.org/room/models-2024/models-2024-venue-ws---space-invaders">Space Invaders (S2 046)</a>.
+        [24.09.2024.] 
+        Presentations for the talks are available in the <a href="https://copamo.github.io/talks">Talks page</a>.
     </div>
     <div class="announcement-date">
     </div>
