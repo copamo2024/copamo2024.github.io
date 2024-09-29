@@ -10,8 +10,7 @@ order: 1
         PRESENTATIONS
     </div>
     <div class="announcement-content">
-        [24.09.2024.] 
-        Presentations for the talks are available in the <a href="https://copamo.github.io/talks">Talks page</a>.
+        [24.09.2024.] Presentations for the talks are available in the <a href="https://copamo.github.io/talks">Talks page</a>.
     </div>
     <div class="announcement-date">
     </div>
