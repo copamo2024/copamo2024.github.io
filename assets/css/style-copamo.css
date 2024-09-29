@@ -27,13 +27,13 @@ div .announcement-type{
     align:left;
     padding-left:5px;
     font-weight: bold;
-    min-width: 10%
+    min-width: 15%
 }
 
 div .announcement-content{
     text-align:right;
     display: table-cell;
-    min-width: 80%
+    min-width: 66%
 }
 
 div .announcement-date{
