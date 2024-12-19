@@ -1,0 +1,61 @@
+- session: AM1
+  start: '09:00'
+  end: 	'10:15'
+  title: "Keynote: Automating, Evaluating, and Broadening Participatory Modeling and Simulation"
+  presenter: "Dr. Philippe Giabbanelli"
+  url: /keynote
+- session: AM1
+  start: '10:15'
+  end: 	'10:30'
+  title: "CoPaMo Opening"
+
+- session: AM2
+  start: '11:00'
+  end: 	'11:22'
+  paperid: 7
+- session: AM2
+  start: '11:22'
+  end: 	'11:44'
+  paperid: 1
+- session: AM2
+  start: '11:44'
+  end: 	'12:06'
+  paperid: 11
+- session: AM2
+  start: '12:06'
+  end: 	'12:28'
+  paperid: 5
+
+- session: PM1
+  start: '14:00'
+  end: 	'14:22'
+  paperid: 6
+- session: PM1
+  start: '14:22'
+  end: 	'14:44'
+  paperid: 3
+- session: PM1
+  start: '14:44'
+  end: 	'15:06'
+  paperid: 12
+- session: PM1
+  start: '15:06'
+  end: 	'15:28'
+  paperid: 10
+  
+- session: PM2
+  start: '16:00'
+  end: 	'16:22'
+  paperid: 13
+- session: PM2
+  start: '16:22'
+  end: 	'16:44'
+  paperid: 8
+- session: PM2
+  start: '16:44'
+  end: 	'17:06'
+  paperid: 9
+- session: PM2
+  start: '17:06'
+  end: 	'17:20'
+  title: "Closing and concluding remarks"

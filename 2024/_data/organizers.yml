@@ -1,0 +1,15 @@
+- name: David, Istvan
+  image: istvan.png
+  affiliation: McMaster University, Canada
+  website: http://istvandavid.com/
+  order: 1
+- name: Gutschmidt, Anne
+  image: anne.jpg
+  affiliation: University of Rostock, Germany
+  website: https://www.wirtschaftsinformatik.uni-rostock.de/en/chair/team/academic-staff/anne-gutschmidt/
+  order: 2
+- name: Marchezan, Luciano
+  image: luciano.png
+  affiliation: Johannes Kepler University, Austria
+  website: https://lucianomarchezan.github.io/
+  order: 3
