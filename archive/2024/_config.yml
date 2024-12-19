@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  and tools. Such stakeholder-facing concerns are the ones researched under the broader participatory modeling umbrella. This workshop aims to showcase
   the latest developments in Collaborative and Participatory Modeling, as well as to expose the synergies between collaborative and participatory
    modeling by inviting researchers and organizers from both communities.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/archive/2024" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
