@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   the latest developments in Collaborative and Participatory Modeling, as well as to expose the synergies between collaborative and participatory
    modeling by inviting researchers and organizers from both communities.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "copamo2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
